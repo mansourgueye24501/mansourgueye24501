@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning advanced programming techniques and improving my skills in web and mobile app development.  
 - 💞️ I’m looking to collaborate on tech-driven projects, especially in web development, graphic design, and sustainable tourism platforms.  
 - 📫 How to reach me:  
-  - Email: your-email@example.com  
+  - Email: mansourg467@gmail.com  
   - LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/](https://www.linkedin.com/in/mouhamadou-mansour-gueye-722370264/))  
   - Portfolio: [Your Portfolio Website](https://your-portfolio.com)  
 
